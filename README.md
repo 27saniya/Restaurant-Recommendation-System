@@ -24,7 +24,7 @@ Run - python setup.py extract
 
 
 
-## For EDA and Preprocessing dataset (We already performed EDA on given dataset and cleaned daatset provided in data folder), run the following command
+## For EDA and Preprocessing dataset (We already performed EDA on given dataset and cleaned dataset provided in data folder), run the following command
 python source/data_preprocessing.py
 
 ## Development
