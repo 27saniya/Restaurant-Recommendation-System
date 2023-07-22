@@ -1,7 +1,5 @@
 # Restaurant Recommendation System based on Yelp Dataset
 
-Restaurant Recommendation is a project that we build as part our course in Data-Mining 240
-
 ## Installation
 Download the zipped folder and navigate to the root folder. 
 
