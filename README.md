@@ -1,5 +1,6 @@
 # Restaurant Recommendation System based on Yelp Dataset
 
+## Link to view the project: https://github.com/27saniya/Restaurant-Recommendation-System/blob/main/Restaurant_Recommendation.pdf
 ## Installation
 Download the zipped folder and navigate to the root folder. 
 
